@@ -1,0 +1,9 @@
+{
+	"name": "Adventure-Worker-adf",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "efd89476-a094-4afe-a05d-abcfe94aac05",
+		"tenantId": "350783b2-ac7e-4f10-a6e2-7ba5a1464496"
+	}
+}
